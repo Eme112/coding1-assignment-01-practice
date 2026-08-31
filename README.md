@@ -8,6 +8,17 @@ Fork this repository to your own GitHub account. In `assignment.py`, add short c
 
 Commit your comments and push the commit to your fork before leaving class.
 
+## Running the assignment
+
+Set up the locked course environment and run the script from the repository root:
+
+```bash
+uv sync --locked
+uv run python assignment.py
+```
+
+Run the script again after adding your comments. Its printed output should not change.
+
 ## Rules
 
 - Work by yourself. AI tools are not allowed in Coding 1.
