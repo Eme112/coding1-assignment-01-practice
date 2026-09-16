@@ -4,7 +4,9 @@ This is a practice run for the in-class assignments that start in Session 2. It 
 
 ## Task
 
-Fork this repository to your own GitHub account. In `assignment.py`, add short comments that explain what each line or block does and why it is there. Do not change the code.
+The script uses only variables, string indexing, and `print`.
+
+Fork this repository to your own GitHub account. In `assignment.py`, add short comments that explain what each line does and why it is there. Do not change the code.
 
 Commit your comments and push the commit to your fork before leaving class.
 
